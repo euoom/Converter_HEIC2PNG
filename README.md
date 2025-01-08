@@ -12,4 +12,6 @@ pip install pillow pillow-heif
 ```
 
 ### 실행
+``` cmd
 python convert_heic2png.py
+```
